@@ -6,3 +6,4 @@ class Peson:
 a = Peson("name")
 
 print(a.name)
+print(4)
